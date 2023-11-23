@@ -1,3 +1,8 @@
+*.http://62.233.50.25/en-us/docs.html
+*.http://62.233.50.25/en-us/test.html
+*.http://81.19.135.219/F8PtZ87fE8dJWqe.hta
+*.http://81.19.135.219:443/q0X5wzEh6P7.hta
+*.adobe-us-updatefiles.digital
 *.victimname-sso.com
 *.victimname-servicedesk.com
 *.victimname-okta.com
