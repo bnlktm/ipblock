@@ -1,3 +1,6 @@
+*.victimname-sso.com
+*.victimname-servicedesk.com
+*.victimname-okta.com
 *.www-discord.com
 *.www-docker.top
 *.www-citrix.top
