@@ -1,6 +1,6 @@
-http://bringthenoiseappnew.s3.amazonaws.com/ujwphtigdcokr 
-http://103.76.128.34:8080/ 
-https://fisheries-states-codes-camps.trycloudflare.com/rcu
+*.http://bringthenoiseappnew.s3.amazonaws.com/ujwphtigdcokr 
+*.http://103.76.128.34:8080/ 
+*.https://fisheries-states-codes-camps.trycloudflare.com/rcu
 *.4mz.hopto.org
 *.airfiss.hopto.org
 *.anla.hopto.org
