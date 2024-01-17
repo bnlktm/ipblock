@@ -1,3 +1,4 @@
+*.videocdn.click
 *.http://bringthenoiseappnew.s3.amazonaws.com/ujwphtigdcokr 
 *.http://103.76.128.34:8080/ 
 *.https://fisheries-states-codes-camps.trycloudflare.com/rcu
