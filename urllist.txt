@@ -1,3 +1,24 @@
+*.secure-cama.com 
+*.miltonhouse.nl 
+*.entraide-internationale.fr 
+*.api.d-n-s.name 
+*.cpanel.netbar.org 
+*.clickcom.click 
+*.clicko.click 
+*.duorhytm.fun 
+*.line-api.com 
+*.areekaweb.com 
+*.ehangmun.com
+*.archivevalley-media.s3.amazonaws.com I
+*.blooming.s3.amazonaws.com 
+*.shapefiles.fews.net.s3.amazonaws.com 
+*.blaze-uk.s3.amazonaws.com 
+*.book4timepublic.s3.amazonaws.com 
+*.auto.c3pool.org 
+*.abode-dashboard-media.s3.ap-south-1.amazonaws.com
+*.gpoaccess.com S
+*.webb-institute.com 
+*.symantke.com
 *.videocdn.click
 *.http://bringthenoiseappnew.s3.amazonaws.com/ujwphtigdcokr 
 *.http://103.76.128.34:8080/ 
