@@ -1,3 +1,4 @@
+*.idowall.com
 *.secure-cama.com 
 *.miltonhouse.nl 
 *.entraide-internationale.fr 
