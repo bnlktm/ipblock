@@ -1,3 +1,5 @@
+*.https://lookerstudio.google.com/reporting/74546b8d-e088-465d-9cb0-b0d4c8a2d0cc
+*.service.ahmednagar@autobahntrucking.com
 *.fxbulls.ru
 *.87iavv.com
 *.unfawjelesst322.com
