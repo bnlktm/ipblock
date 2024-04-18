@@ -1,3 +1,6 @@
+*.http://172.233.228.93/policy
+*.http://172.233.228.93/patch
+*.nhdata.s3-us-west-2.amazonaws.com
 *.http://bringthenoiseappnew.s3.com/ujwphtigdcokr
 *.https://fisheries-states-codes-camps.trycloudflare.com/rcu
 *.true.org
