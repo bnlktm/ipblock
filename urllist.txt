@@ -18,7 +18,6 @@
 *.zexodown-2.b-cdn.net
 *.denv-2.b-cdn.net
 *.metrodown-2.b-cdn.net
-*.metrodown-2.b-cdn.net
 *.denv-2.b-cdn.net
 *.download-main5.b-cdn.net
 *.metrodown-3.b-cdn.net
