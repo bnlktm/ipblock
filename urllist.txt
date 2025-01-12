@@ -1813,3 +1813,6 @@
 *@grupaang.pl
 *.8cc0400fzz.bnl.com.np
 *.104.168.201.35/dospizdos.tmp
+*.93.115.172.41/private/aW5zdHJ1Y3Rpb25zCg==.txt
+*.cscrm-hiring.com/cs-applicant-crm-installer.zip
+*.cscrm-hiring.com
