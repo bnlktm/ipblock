@@ -1807,6 +1807,7 @@
 *.ssdhuxfo.mortgageunderwriter.net*
 *.fregift.btccbot.com/coca/
 *.fregift.btccbot.com*
+*.fregift.btccbot.com
 *.cocca-cola.com*
 *.oirp@grupaang.pl*
 *.grupaang.pl*
@@ -1816,4 +1817,4 @@
 *.93.115.172.41/private/aW5zdHJ1Y3Rpb25zCg==.txt
 *.cscrm-hiring.com/cs-applicant-crm-installer.zip
 *.cscrm-hiring.com
-*.manb.com
+
