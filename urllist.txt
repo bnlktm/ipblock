@@ -1817,4 +1817,5 @@
 *.93.115.172.41/private/aW5zdHJ1Y3Rpb25zCg==.txt
 *.cscrm-hiring.com/cs-applicant-crm-installer.zip
 *.cscrm-hiring.com
-
+*.email.gov.in.drdosurvey.info
+*.email.gov.in.avtzyu.store
