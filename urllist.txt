@@ -1818,4 +1818,3 @@
 *.email.gov.in.drdosurvey.info
 *.email.gov.in.avtzyu.store
 *.cscrm-hiring.com/cs-applicant-crm-installer.zip
-*.onlinekhabar.com
