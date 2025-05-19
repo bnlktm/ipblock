@@ -961,8 +961,6 @@
 *.eoy7zvsvn6xfcmy.m.pipedream.net
 *.forkscenter.fr/BitdefenderWindowsUpdatePackage.exe
 *.forkscenter.fr/Sdghrt_umrj6/wisw.exe
-*.github.com/sukau
-*.github.com/sukaut
 *.military-ukraine.site/Necessary_military_assistance.rar
 *.mojobiden.com
 *.nirsoft.me/nEDFzTtoCbUfp9BtSZlaq6ql8v6yYb/avp/amznussraps/
