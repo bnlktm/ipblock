@@ -1984,3 +1984,7 @@ https://shorturl.at/NCxJk
 https://shorturl.at/bYqUx
 https://ws.onehub.com/files/bbmiio1c
 https://ws.onehub.com/files/zgov9aqy
+*.gohazeldale.com
+*.srlaptop.com
+*.melamorri.com
+*.campanole.com
