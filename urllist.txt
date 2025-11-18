@@ -2023,3 +2023,8 @@ https://ws.onehub.com/files/zgov9aqy
 *.aginscore.com/d
 *.aginscore.com/e
 *.kuchiku.digital/d
+*.zapgrande.com 
+*.expansiveuser.com 
+*.74.48.140.160/4.citatorios_sat-gob.mxgob0.website 
+*.93.113.25.102/msi/e69378480adab23d
+*.varegjopeaks.com
