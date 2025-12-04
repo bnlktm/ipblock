@@ -2093,3 +2093,4 @@ https://ws.onehub.com/files/zgov9aqy
 *.weddingsarahetemmanuel.com
 *.winbet299mas.com
 *.yoopuipui.com
+*.download.videotalks.xyz/gui/6dad3/id=5244544112427978&secret=NByUZrutDGoS
