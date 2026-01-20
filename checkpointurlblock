@@ -197,3 +197,6 @@
 *.m.fasterxml.org:51211/config.txt
 *.103.127.243.82:8000/http/192he23/svchosts.exe
 *.103.127.243.82:8000/http/192he23/update
+*.api.databycloud.com/api/v1/mv3
+*.api.software-access.com/api/v1/mv3
+*.api.software-access.com
