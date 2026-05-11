@@ -211,3 +211,6 @@
 *.service-page-11369-28315-outlook.s3.us-west-2.amazonaws.com
 *.146.70.100.69:8000/php_sess
 *.github.com/Acebond/ReverseSocks5/releases/download/v2.2.0/ReverseSocks5-v2.2.0-linux-amd64.tar.gz
+*.cdn.cloudfront-js.com
+*.lastpass-login-help.com
+*.spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
