@@ -2145,3 +2145,5 @@ https://ws.onehub.com/files/zgov9aqy
 *.cloudfront-021.s3.us-west-2.amazonaws.com
 *.wss://sad4w7h913-b4a57f9c36eb.herokuapp.com/ws
 *.service-page-11369-28315-outlook.s3.us-west-2.amazonaws.com
+*.146.70.100.69:8000/php_sess
+*.github.com/Acebond/ReverseSocks5/releases/download/v2.2.0/ReverseSocks5-v2.2.0-linux-amd64.tar.gz
