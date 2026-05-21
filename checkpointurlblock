@@ -214,3 +214,5 @@
 *.cdn.cloudfront-js.com
 *.lastpass-login-help.com
 *.spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
+*.t.m-kosche.com:443/api/public/otel/v1/traces
+*.t.m-kosche.com
