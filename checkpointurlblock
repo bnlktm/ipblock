@@ -217,3 +217,6 @@
 *.t.m-kosche.com:443/api/public/otel/v1/traces
 *.t.m-kosche.com
 *.83.138.53.110/dlp.exe
+*.nwphotoblog.com 
+*.ws.ztts88.cyou/file/cg.exe 
+*.ws.ztts88.cyou/upload.php
