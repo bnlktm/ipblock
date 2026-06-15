@@ -2156,3 +2156,4 @@ https://ws.onehub.com/files/zgov9aqy
 *.nwphotoblog.com 
 *.ws.ztts88.cyou/file/cg.exe 
 *.ws.ztts88.cyou/upload.php
+*.api.telegram.org
