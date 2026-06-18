@@ -2158,3 +2158,12 @@ https://ws.onehub.com/files/zgov9aqy
 *.ws.ztts88.cyou/upload.php
 *.api.telegram.org
 *.wap.nndy.shop/vod/724891/v_990959.html
+*.192.36.27.51/TechSupV18Fix3.zip
+*.projetosmecanicos.com.br
+*.socialbizsolutions.com
+*.professionalhomebasedbusiness.com
+*.safefire.jo
+*.glanz-gmbh.de
+*.turnkeyaiagents.com
+*.comunidadesparentais.com.br
+*.mysimerp.net
