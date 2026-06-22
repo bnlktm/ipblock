@@ -2167,3 +2167,4 @@ https://ws.onehub.com/files/zgov9aqy
 *.turnkeyaiagents.com
 *.comunidadesparentais.com.br
 *.mysimerp.net
+*.zecyxfgt.bri1laxon.in.net
