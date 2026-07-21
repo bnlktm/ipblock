@@ -2168,3 +2168,5 @@ https://ws.onehub.com/files/zgov9aqy
 *.comunidadesparentais.com.br
 *.mysimerp.net
 *.zecyxfgt.bri1laxon.in.net
+*.relay.germtrust.digital
+*.Nossl.softperfect.com
