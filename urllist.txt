@@ -2170,3 +2170,12 @@ https://ws.onehub.com/files/zgov9aqy
 *.zecyxfgt.bri1laxon.in.net
 *.relay.germtrust.digital
 *.Nossl.softperfect.com
+*.zmailanalytics.com 
+*.zimbra-metadata.com 
+*.analyticemailmeter.com 
+*.emailanalytics.com.ua 
+*.mailnalysis.com 
+*.zimbrastat.com 
+*.zimbrasoft.com.ua 
+*.synacorzimbra.nl 
+*.istc-cloud.com
