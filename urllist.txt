@@ -2182,6 +2182,8 @@ https://ws.onehub.com/files/zgov9aqy
 *.s3.ca-montreal.megas4.com
 *.s3.ca-central-1.s4.mega.io
 *.s3.ca-west-1.s4.mega.io
-*.germtrust[.]digital/Bin/
-*.Nossl.softperfect.com
-*.relay.germtrust.digital
+*.germtrust.digital/Bin/
+*.asecdns.com
+*.acocdn.com
+*.dnsrecursive.eu
+*.tdndns.com
