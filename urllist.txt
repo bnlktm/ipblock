@@ -2294,3 +2294,7 @@ https://ws.onehub.com/files/zgov9aqy
 *.4569f6322bc3b22e9@proton.me
 *.ilovemycubscout@gmail.com
 *.6449a3c1e612168526@proton.me
+*.npm-cache.com
+*.pypi-get.com
+*.js-mirror.com
+*.npm-cache.com:443/router
