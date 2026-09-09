@@ -2304,7 +2304,7 @@ https://ws.onehub.com/files/zgov9aqy
 *.linked-log.com/
 *.update1n5.blob.core.windows.net
 *.update1n6.blob.core.windows.net
-.update1n7.blob.core.windows.net
+*.update1n7.blob.core.windows.net
 *.update1n9.blob.core.windows.net
 *.updatetmp.blob.core.windows.net
 *.synctimes.australiaeast.cloudapp.azure.com
