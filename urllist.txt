@@ -2318,3 +2318,10 @@ https://ws.onehub.com/files/zgov9aqy
 *.ntp.timesync.to
 *.ntp.synctime.to
 *.ntp.syncstime.to
+*.193.32.204.199/?c=monami
+*.daejin.makeway2017.gethompy.com/lib/Cache/adminer/logo.php?au=tt
+*.daejin.makeway2017.gethompy.com/lib/Cache/enter/logo.php
+*.kgbrazing.makeway2017.gethompy.com/skin/board/pym/logo-man.php
+*.koocpt.site/meta/logo.php
+*.masonparkpg.dothome.co.kr/Gorg04/a/logoman.php
+*.42.193.227.214:8033/[a-z0-9]{13}
