@@ -2325,3 +2325,7 @@ https://ws.onehub.com/files/zgov9aqy
 *.koocpt.site/meta/logo.php
 *.masonparkpg.dothome.co.kr/Gorg04/a/logoman.php
 *.42.193.227.214:8033/[a-z0-9]{13}
+*.agent.afahimsa.top/meshagentsid=4&meshid=DSZSDHzU1YSP83eNnHzSUfPPt5MFUC3UadztK7UJWbWttVfTo$auq8StiVu0p6ND&installflags=0
+*.193.149.187.81:1287/1.exe
+*.162.33.178.213:8888/clear-thinking_61.92.4_INSTALL.exe
+*.sthyjk.com:8443/clear-thinking_61.92.4_INSTALL.exe
