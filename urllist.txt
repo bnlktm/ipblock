@@ -2332,3 +2332,6 @@ https://ws.onehub.com/files/zgov9aqy
 *.radesashar.com
 *.Meshcentral.girydsfsggvb.com
 *.mesh.buttruyen.com
+*.sqlserver-sqlite.com
+*.nginxmysql.com
+*.www.ddduuuppp.com
