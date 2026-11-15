@@ -2335,3 +2335,7 @@ https://ws.onehub.com/files/zgov9aqy
 *.sqlserver-sqlite.com
 *.nginxmysql.com
 *.www.ddduuuppp.com
+*.moments-notice.com
+*.planetmaison.com
+*.newbooker.com
+*.reallifeaccounting.com
